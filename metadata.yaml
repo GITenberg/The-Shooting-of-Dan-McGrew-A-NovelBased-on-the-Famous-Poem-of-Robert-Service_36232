@@ -1,0 +1,33 @@
+_repo: The-Shooting-of-Dan-McGrew-A-NovelBased-on-the-Famous-Poem-of-Robert-Service_36232
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36232-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Service, Robert W. (Robert William)
+    alias: Service, Robert William
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '117'
+    url: http://www.gutenberg.org/2009/agents/117
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Service
+  - agent_name: Dana, Marvin
+    alias: Dana, Marvin Hill
+    birthdate: 1867
+    gutenberg_agent_id: '462'
+    url: http://www.gutenberg.org/2009/agents/462
+description: ''
+gutenberg_issued: '2011-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Shooting of Dan McGrew, A Novel. Based on the Famous Poem of Robert Service
+url: http://www.gutenberg.org/ebooks/36232
