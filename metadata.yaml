@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '462'
     url: http://www.gutenberg.org/2009/agents/462
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36232#The-Shooting-of-Dan-McGrew-A-NovelBased-on-the-Famous-Poem-of-Robert-Service
 gutenberg_issued: '2011-05-26'
 gutenberg_type: Text
 identifiers:
